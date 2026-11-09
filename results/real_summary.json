@@ -1,0 +1,20 @@
+{
+  "n": 18,
+  "ttft_p50": 1537.4,
+  "ttft_p95": 3588.6,
+  "ttft_p99": 3743.9,
+  "total_p50": 2108.7,
+  "total_p95": 4555.7,
+  "total_p99": 5725.1,
+  "tokens_mean": 3130.8,
+  "grades": {
+    "correct": 6,
+    "refused_wrongly": 3,
+    "wrong": 3,
+    "refused_correctly": 6
+  },
+  "correct_pct": 33.3,
+  "wrong_pct": 16.7,
+  "refused_ok_pct": 33.3,
+  "refused_wrong_pct": 16.7
+}
